@@ -1,8 +1,3 @@
-/*
-  * $Id$
-  * Copyright (C) 2009 ARIN
-  */
-
 /**
  * SoxXx Lisp Lexer 
  * @author adamg

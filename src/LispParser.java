@@ -1,7 +1,3 @@
-/*
-  * $Id$
-  * Copyright (C) 2009 ARIN
-  */
 
 /**
  * @author adamg
