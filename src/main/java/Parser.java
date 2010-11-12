@@ -10,6 +10,7 @@ public class Parser
 {
     Lexer input;
     Token[] lookahead;
+    int j;
     int k;
     int p = 0;
     
