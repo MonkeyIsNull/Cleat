@@ -1,6 +1,5 @@
 /**
- * SoxXx Lisp Lexer 
- * @author adamg
+ * 
  */
 public abstract class Lexer
 {

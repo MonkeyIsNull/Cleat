@@ -1,6 +1,6 @@
 
 /**
- * @author adamg
+ * LispParser
  */
 public class LispParser extends Parser
 {

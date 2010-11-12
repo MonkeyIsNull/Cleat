@@ -1,8 +1,7 @@
 
 /**
- * SoxXx LispLexer for Lisp
+ *  LispLexer for Lisp
  * 
- * @author adamg
  */
 public class LispLexer extends Lexer
 {

@@ -1,7 +1,7 @@
 /**
- * SoxXx Tokenizer for Lisp
+ * Tokenizer for Lisp
  * 
- * @author adamg
+ * 
  */
 public class Token
 {

@@ -1,5 +1,5 @@
 /**
- * @author adamg
+ *
  * 
  * Parr's LL(k) RecDescent Parser.
  * Prolly overkill for this language though.
