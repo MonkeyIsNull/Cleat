@@ -1,6 +1,7 @@
+package org.cleat;
 
 /**
- * LispParser
+ * org.cleat.LispParser
  */
 public class LispParser extends Parser
 {
@@ -11,9 +12,9 @@ public class LispParser extends Parser
 
 //    public void lispString()
 //    {
-//        if(LA(1) == LispLexer.STRING)
+//        if(LA(1) == org.cleat.LispLexer.STRING)
 //        {
-//            match(LispLexer.STRING);
+//            match(org.cleat.LispLexer.STRING);
 //        }
 //    }
 

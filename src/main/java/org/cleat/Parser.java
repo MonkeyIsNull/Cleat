@@ -1,7 +1,9 @@
+package org.cleat;
+
 /**
  *
  * 
- * Parr's LL(k) RecDescent Parser.
+ * Parr's LL(k) RecDescent org.cleat.Parser.
  * Prolly overkill for this language though.
  * Fuck it, you can kill more Zombies w/ it,
  * and you'll need it if the Ninjas are late.

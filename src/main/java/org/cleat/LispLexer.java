@@ -1,6 +1,7 @@
+package org.cleat;
 
 /**
- *  LispLexer for Lisp
+ *  org.cleat.LispLexer for Lisp
  * 
  */
 public class LispLexer extends Lexer
